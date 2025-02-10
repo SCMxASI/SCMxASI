@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SCMxASI
-- 👀 I’m interested in Ai&Ml and Web Dev
+- 👀 I’m interested in Ai&Ml and Front-end Web Dev
 - 🌱 I’m currently Pursuing Artificial Intellingence and Machine Learning.
 - 💞️ I’m looking to collaborate on live.
 - 📫 How to reach me mohamedasifoffl@gmail.com (Student mail)
