@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @SCMxASI
 - 👀 I’m interested in Ai&Ml and Front-end Web Dev
 - 🌱 I’m currently Pursuing Artificial Intellingence and Machine Learning.
-- 💞️ I’m looking to collaborate on live.
+- 💞️ I’m looking for a Internship.
 - 📫 How to reach me mohamedasifoffl@gmail.com (Student mail)
 - 😄 MALE
-- ⚡ Fun fact:There are only 2 gender. 
+- ⚡ Fact:There are only 2 gender. 
 
 <!---
 SCMxASI/SCMxASI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
