@@ -3,7 +3,7 @@
 - 🌱 I’m currently Pursuing Artificial Intellingence and Machine Learning.
 - 💞️ I’m looking for a Internship.
 - 📫 How to reach me mohamedasifoffl@gmail.com (Student mail)
-- 😄 MALE
+- 😄 MALE.
 
 <!---
 SCMxASI/SCMxASI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
