@@ -4,7 +4,6 @@
 - 💞️ I’m looking for a Internship.
 - 📫 How to reach me mohamedasifoffl@gmail.com (Student mail)
 - 😄 MALE
-- ⚡ Fact:There are only 2 gender. 
 
 <!---
 SCMxASI/SCMxASI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
