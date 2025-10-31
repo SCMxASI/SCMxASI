@@ -22,11 +22,11 @@ Personal portfolio showcasing my projects, experiments, and interests in AI/ML d
 
 | Area | Technologies |
 |------|---------------|
-| **Languages** | Python, JavaScript, HTML, CSS |
+| **Languages** | Python, C++, JavaScript, HTML, CSS |
 | **Frameworks** | Flask |
 | **AI/ML Tools** | Google Gemini, TensorFlow, Scikit-learn |
-| **Utilities** | Git, VS Code, pdfplumber |
-| **Hosting** | Netlify, Render |
+| **Utilities** | Git, VS Code, Kaggle, Google Collab |
+| **Hosting** | Netlify, Railway |
 
 ---
 
@@ -39,7 +39,7 @@ Personal portfolio showcasing my projects, experiments, and interests in AI/ML d
 
 ## 📫 Contact
 
-📧 **Email:** _your.email@example.com_  
+📧 **Email:** mohamedasifoffl@gmail.com
 🌍 **Portfolio:** [https://mdasif-portfolio.netlify.app](https://mdasif-portfolio.netlify.app)
 
 ---
