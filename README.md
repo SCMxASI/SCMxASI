@@ -32,7 +32,6 @@ Personal portfolio showcasing my projects, experiments, and interests in AI/ML d
 
 ## 📈 GitHub Stats
 
-![Asif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdasif&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdasif&layout=compact&theme=tokyonight)
 
 ---
