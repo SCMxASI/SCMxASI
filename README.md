@@ -30,12 +30,6 @@ Personal portfolio showcasing my projects, experiments, and interests in AI/ML d
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdasif&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 📧 **Email:** mohamedasifoffl@gmail.com
