@@ -27,7 +27,7 @@ Personal portfolio showcasing my projects, experiments, and interests in AI/ML d
 | **AI/ML Tools** | Gen AI, TensorFlow, Scikit-learn |
 | **Utilities** | Git, VS Code, Kaggle, Google Collab |
 | **Hosting** | Netlify, Railway |
-| **Database** | Sql |
+| **Database** | Structured Query Language |
 ---
 
 ## 📫 Contact
