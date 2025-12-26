@@ -24,10 +24,10 @@ Personal portfolio showcasing my projects, experiments, and interests in AI/ML d
 |------|---------------|
 | **Languages** | Python, C++, JavaScript, HTML, CSS |
 | **Frameworks** | Flask |
-| **AI/ML Tools** | Google Gemini, TensorFlow, Scikit-learn |
+| **AI/ML Tools** | Gen AI, TensorFlow, Scikit-learn |
 | **Utilities** | Git, VS Code, Kaggle, Google Collab |
 | **Hosting** | Netlify, Railway |
-
+| **Database** | Sql |
 ---
 
 ## 📫 Contact
